@@ -1,0 +1,14 @@
+{
+
+  "manifest_version": 2,
+  "name": "Youtube Playlist Fixer",
+  "version": "1.2",
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/watch?v=*&list=*", "https://youtube.com/watch?v=*&list=*"],
+      "js": ["fixer.js"]
+    }
+  ]
+
+}
