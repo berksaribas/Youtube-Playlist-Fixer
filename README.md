@@ -8,5 +8,5 @@ https://webcompat.com/issues/13429
 
 The index of this video is 144 but the right side shows from 187.
 # Download
-[Latest Version (1.2)](https://github.com/berksaribas/Youtube-Playlist-Fixer/releases/tag/v1.2)
+[Latest Version (1.3)](https://github.com/berksaribas/Youtube-Playlist-Fixer/releases/tag/v1.3)
 
