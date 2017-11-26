@@ -22,3 +22,4 @@ window.onfocus = function() {
 	}, 500);
 };
 
+fixList();
