@@ -13,7 +13,7 @@ function fixList() {
 body.addEventListener("yt-navigate-finish", function(event) {
 	setTimeout(function(){
 		fixList();
-	}, 100);
+	}, 500);
 });
 
 
