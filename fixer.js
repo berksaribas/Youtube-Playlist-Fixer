@@ -16,4 +16,9 @@ body.addEventListener("yt-navigate-finish", function(event) {
 	}, 500);
 });
 
+window.onfocus = function() {
+    setTimeout(function(){
+		fixList();
+	}, 500);
+};
 

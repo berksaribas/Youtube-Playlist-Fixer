@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Youtube Playlist Fixer",
-  "version": "1.41",
+  "version": "1.42",
 
   "content_scripts": [
     {
